@@ -35,5 +35,5 @@ To get started with this project, you'll need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/OscillaTrek.git
+   git clone https://github.com/ComradeWipe/OscillaTrek.git
    cd OscillaTrek
